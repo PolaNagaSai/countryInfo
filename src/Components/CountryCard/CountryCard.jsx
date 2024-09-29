@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 
+// Country card
 function CountryCard({country}) {
      const { flags, name, population, region, capital } = country;
   return (
