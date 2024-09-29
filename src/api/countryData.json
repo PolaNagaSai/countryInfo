@@ -1,0 +1,74 @@
+[
+      {
+        "id": 1,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": 38005238,
+        "interestingFact": "Canada has the longest coastline of any country in the world."
+      },
+      {
+        "id": 2,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "population": 126476461,
+        "interestingFact": "Japan is home to the world's oldest continuously operating company, Kongo Gumi, founded in 578 AD."
+      },
+      {
+        "id": 3,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "population": 213993437,
+        "interestingFact": "Brazil is the largest country in South America and is famous for the Amazon Rainforest."
+      },
+      {
+        "id": 4,
+        "countryName": "Australia",
+        "capital": "Canberra",
+        "population": 25687041,
+        "interestingFact": "Australia is home to the world's longest fence, the Dingo Fence, which stretches over 5,600 kilometers."
+      },
+      {
+        "id": 5,
+        "countryName": "Germany",
+        "capital": "Berlin",
+        "population": 83783942,
+        "interestingFact": "Germany is known for its castles, with over 25,000 spread throughout the country."
+      },
+      {
+        "id": 6,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "population": 1380004385,
+        "interestingFact": "India is the world's largest democracy and has over 1,600 languages spoken."
+      },
+      {
+        "id": 7,
+        "countryName": "France",
+        "capital": "Paris",
+        "population": 65273511,
+        "interestingFact": "France is the most visited country in the world, with over 89 million tourists annually."
+      },
+      {
+        "id": 8,
+        "countryName": "Mexico",
+        "capital": "Mexico City",
+        "population": 128932753,
+        "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+      },
+      {
+        "id": 9,
+        "countryName": "Italy",
+        "capital": "Rome",
+        "population": 60244639,
+        "interestingFact": "Italy is home to the most UNESCO World Heritage Sites, with 58 recognized."
+      },
+      {
+        "id": 10,
+        "countryName": "South Africa",
+        "capital": "Pretoria",
+        "population": 59308690,
+        "interestingFact": "South Africa is the only country to have hosted the FIFA World Cup on three different occasions."
+      }
+]
+
+  
